@@ -1,3 +1,7 @@
+Attribution
+===================================
+This repository is a fork of [percona-xtradb-cluster-docker](https://github.com/Percona-Lab/percona-xtradb-cluster-docker)
+
 Percona XtraDB Cluster docker image
 ===================================
 
